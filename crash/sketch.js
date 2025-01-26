@@ -13,7 +13,7 @@ let loc = {
 
 function preload() {
   dataObject = loadJSON(
-    "https://genxp-2406.github.io/assets/datasets/Motor-Vehicle-Crashes/Motor-Vehicle-Crashes.json"
+    "https://genxp-2411.github.io/assets/datasets/Motor-Vehicle-Crashes/Motor-Vehicle-Crashes.json"
   );
 }
 
